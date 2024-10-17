@@ -1,3 +1,3 @@
 # Static site generator
 
-This was my second personal project for my [boo.dev](www.boot.dev) expirience!
+This was my second personal project for my [boot.dev](https://www.boot.dev) expirience!
